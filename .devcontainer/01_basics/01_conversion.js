@@ -28,4 +28,5 @@ console.log(typeof stringNumber);
 
 
 let value = 3
-l
+let negvalue = -value
+console.log (negvalue);
